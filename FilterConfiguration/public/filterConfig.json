@@ -2,7 +2,7 @@
   "filters": [
     {
       "name": "Cannabis",
-      "values": [ "Hemp", "Hemp family" ]
+      "values": [ "Hemp", "Hemp family", "Herb", "Tobacco", "Cigarette", "Smoke", "Tobacco Products" ]
     },
     {
       "name": "Konie",
